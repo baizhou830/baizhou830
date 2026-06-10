@@ -1,8 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
 欢迎来到轴中Axlewire的个人主页。
 
 他是一个。。。普通的。。。初二牛马。。。
 
-目前的仓库 时不时维护（real？）
+### 目前的仓库 时不时维护（real？）
 [AxleScore](https://github.com/baizhou830/AxleScore) - 轻量级小组积分管理工具
+
+### 计划中的项目（sure？）
+AxleClock - 轻量化时钟 以悬浮窗形式常驻屏幕[重构阶段 暂不公开仓库]
+
+AxleTouch - 基于VLM的可互动桌宠[这个纯画饼。]
