@@ -6,6 +6,7 @@
 
 ### 目前的仓库 时不时维护（real？）
 [AxleScore](https://github.com/baizhou830/AxleScore) - 轻量级小组积分管理工具
+[AxleMailBird](https://github.com/baizhou830/AxleMailBird) - 低效低本信息推送组件
 
 ### 计划中的项目（sure？）
 AxleClock - 轻量化时钟 以悬浮窗形式常驻屏幕[重构阶段…正在重制插件系统 暂不公开仓库]
