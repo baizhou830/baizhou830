@@ -9,7 +9,7 @@
 
 [AxleMailBird](https://github.com/baizhou830/AxleMailBird) - 低效低本信息推送组件
 
-AxleTouch - 基于LLM的互动桌宠[重构阶段...]
+[AxleTouch](https://github.com/baizhou830/AxleTouch) - 基于LLM的互动桌宠[开发阶段...]
 
 ### 计划中的项目（sure？）
 AxleClock - 轻量化时钟 以悬浮窗形式常驻屏幕[重构阶段…正在重制插件系统 暂不公开仓库]
